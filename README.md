@@ -1,2 +1,2 @@
 # QuestTest1
-Started VR tutural in Unity for Oculus Quest
+Started VR tutorial in Unity for Oculus Quest
